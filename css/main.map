@@ -1,0 +1,18 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../scss/main.scss",
+		"../scss/_base.scss",
+		"../scss/_components.scss",
+		"../scss/_layout.scss"
+	],
+	"sourcesContent": [
+		"@import \r\n'base',\r\n'components',\r\n'layout';",
+		"",
+		"",
+		"// body {\r\n//     background-color: black;\r\n// }"
+	],
+	"names": [],
+	"mappings": ""
+}
