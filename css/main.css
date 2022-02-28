@@ -1,6 +1,27 @@
-/* line 21, ../../../OneDrive/Documents/GitHub/sunnyside/scss/_base.scss */
+/* line 22, ../../../OneDrive/Documents/GitHub/sunnyside/scss/_base.scss */
 html {
   font-size: 18px;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+/* line 2, ../../../OneDrive/Documents/GitHub/sunnyside/scss/_components.scss */
+.hero-image {
+  width: 100%;
+  height: auto;
+  position: absolute;
+  z-index: 0;
+}
+
+/* line 1, ../../../OneDrive/Documents/GitHub/sunnyside/scss/_layout.scss */
+body {
+  margin: 0;
+}
+
+/* line 6, ../../../OneDrive/Documents/GitHub/sunnyside/scss/_layout.scss */
+nav {
+  z-index: 1;
+  position: relative;
 }
 
 /*# sourceMappingURL=main.css.map */
