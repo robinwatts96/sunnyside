@@ -9,10 +9,10 @@
 	],
 	"sourcesContent": [
 		"@import \r\n'base',\r\n'components',\r\n'layout';",
-		"",
+		"    // Variables\r\n\r\n// Primary\r\n$soft-red: hsl(7, 99%, 70%);\r\n$yellow: hsl(51, 100%, 49%);\r\n// Graphic Design Text\r\n$dark-desat-cyan: hsl(167, 40%, 24%);\r\n// Photo Text \r\n$dark-blue: hsl(198, 62%, 26%);\r\n// Footer\r\n$dark-mod-cyan: hsl(168, 34%, 41%);\r\n\r\n// Neutral\r\n$dark-desat-blue: hsl(212, 27%, 19%);\r\n$dark-gray-blue: hsl(213, 9%, 39%);\r\n$dark-gray-blue: hsl(232, 10%, 55%);\r\n$gray-blue: hsl(210, 4%, 67%);\r\n$white: hsl(0, 0%, 100%);\r\n\r\n\r\nhtml {\r\n    font-size: 18px;\r\n}\r\n\r\n",
 		"",
 		"// body {\r\n//     background-color: black;\r\n// }"
 	],
 	"names": [],
-	"mappings": ""
+	"mappings": ";ACoBA,AAAA,IAAI,CAAC;EACD,SAAS,EAAE,IAAI;CAClB"
 }
