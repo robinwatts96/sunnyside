@@ -10,3 +10,14 @@ nav {
     align-items: center;
     justify-content: space-between;
 }
+
+.pop-up {
+    z-index: 1;
+    position: relative;
+    background-color: white;
+    width: 80%;
+}
+
+.pop-up ul {
+    list-style-type: none;
+}

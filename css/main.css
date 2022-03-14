@@ -38,4 +38,17 @@ nav {
   justify-content: space-between;
 }
 
+/* line 14, ../../../OneDrive/Documents/GitHub/sunnyside/scss/_layout.scss */
+.pop-up {
+  z-index: 1;
+  position: relative;
+  background-color: white;
+  width: 80%;
+}
+
+/* line 21, ../../../OneDrive/Documents/GitHub/sunnyside/scss/_layout.scss */
+.pop-up ul {
+  list-style-type: none;
+}
+
 /*# sourceMappingURL=main.css.map */
